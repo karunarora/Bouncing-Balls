@@ -68,5 +68,5 @@ Focus on shooting balls, bounce your ball chain and brick all bricks. Balls Boun
         <allow-intent href="itms:*" />
         <allow-intent href="itms-apps:*" />
     </platform>
-    <plugin name="cordova-plugin-admobpro" spec="~2.32.6" />
+    <plugin name="cordova-plugin-admobpro" spec="~2.31.6" />
 </widget>
