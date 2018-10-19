@@ -19,6 +19,7 @@ Focus on shooting balls, bounce your ball chain and brick all bricks. Balls Boun
         Karun Arora
     </author>
     <content src="index.html" />
+    <preference name="AndroidPersistentFileLocation" value="Compatibility" />
     <preference name="DisallowOverscroll" value="true" />
     <preference name="android-targetSdkVersion" value="26" />
     <preference name="android-minSdkVersion" value="14" />
